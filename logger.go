@@ -1,4 +1,4 @@
-package loggergo
+package main
 
 import (
 	"fmt"
